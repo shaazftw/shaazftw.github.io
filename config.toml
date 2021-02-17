@@ -22,7 +22,7 @@ pygmentsCodefencesGuessSyntax = true
 [params]
 title = "Hey, it's Shaz"
 author = "Shaz"
-#copyright = "2020-2021"
+copyright = "2020-2021"
 description = ""
 profilePicture = "images/shaz.jpg"
 keywords = ""
@@ -95,8 +95,8 @@ url = "https://www.instagram.com/shaazftw"
   identifier = "about"
   url = "/about/"
 
-  [[menu.main]]
-  name = "Contact"
-  weight = 400
-  identifier = "contact"
-  url = "/contact/"
+  #[[menu.main]]
+  #name = "Contact"
+  #weight = 400
+  #identifier = "contact"
+  #url = "/contact/"
