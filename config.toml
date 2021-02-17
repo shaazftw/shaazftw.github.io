@@ -27,7 +27,7 @@ copyright = "2020-2021"
 description = ""
 profilePicture = "images/shaz.jpg"
 keywords = ""
-favicon = "favicons/shaz.jpg"
+favicon = "favicons/shaz.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
