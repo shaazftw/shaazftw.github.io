@@ -1,6 +1,7 @@
 baseURL = "https://example.com"
 languageCode = "en"
 themesDir = "themes"
+publishDir = "docs"
 DefaultContentLanguage = "en"
 title = "It's Shaz"
 theme = "anatole"
