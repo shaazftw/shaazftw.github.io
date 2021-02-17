@@ -1,6 +1,4 @@
 baseURL = "https://shaazftw.github.io/"
-relativeURLs = "true"
-uglyURLs = "true"
 languageCode = "en"
 themesDir = "themes"
 publishDir = "docs"
