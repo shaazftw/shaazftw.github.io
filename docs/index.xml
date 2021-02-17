@@ -2,44 +2,44 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It&#39;s Shaz</title>
-    <link>https://shaazftw.github.io/</link>
+    <link>/</link>
     <description>Recent content on It&#39;s Shaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Feb 2021 22:17:38 +0000</lastBuildDate><atom:link href="https://shaazftw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 17 Feb 2021 22:17:38 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>https://shaazftw.github.io/post/first-post.html</link>
+      <link>/post/first-post/</link>
       <pubDate>Wed, 17 Feb 2021 22:17:38 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/post/first-post.html</guid>
+      <guid>/post/first-post/</guid>
       <description>Testing. Update</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://shaazftw.github.io/archives.html</link>
+      <link>/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/archives.html</guid>
+      <guid>/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://shaazftw.github.io/contact.html</link>
+      <link>/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/contact.html</guid>
+      <guid>/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://shaazftw.github.io/about.html</link>
+      <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/about.html</guid>
+      <guid>/about/</guid>
       <description>Hi &amp;amp; if you didn&amp;rsquo;t figure it out yet..I&amp;rsquo;m Shaz.</description>
     </item>
     
