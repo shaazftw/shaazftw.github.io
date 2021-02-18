@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>It&#39;s Shaz</title>
-    <link>https://shaazftw.github.io/</link>
+    <link>https://blog.itsshaz.com/</link>
     <description>Recent content on It&#39;s Shaz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Feb 2021 15:36:37 +0000</lastBuildDate><atom:link href="https://shaazftw.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 15:36:37 +0000</lastBuildDate><atom:link href="https://blog.itsshaz.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sumra Test</title>
-      <link>https://shaazftw.github.io/post/sumra-test/</link>
+      <link>https://blog.itsshaz.com/post/sumra-test/</link>
       <pubDate>Thu, 18 Feb 2021 15:36:37 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/post/sumra-test/</guid>
+      <guid>https://blog.itsshaz.com/post/sumra-test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Anotherpost</title>
-      <link>https://shaazftw.github.io/posts/anotherpost/</link>
+      <link>https://blog.itsshaz.com/posts/anotherpost/</link>
       <pubDate>Thu, 18 Feb 2021 15:24:29 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/posts/anotherpost/</guid>
+      <guid>https://blog.itsshaz.com/posts/anotherpost/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>https://shaazftw.github.io/post/test/</link>
+      <link>https://blog.itsshaz.com/post/test/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:19 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/post/test/</guid>
+      <guid>https://blog.itsshaz.com/post/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>First Post</title>
-      <link>https://shaazftw.github.io/post/first-post/</link>
+      <link>https://blog.itsshaz.com/post/first-post/</link>
       <pubDate>Wed, 17 Feb 2021 22:17:38 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/post/first-post/</guid>
+      <guid>https://blog.itsshaz.com/post/first-post/</guid>
       <description>Testing. Update</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://shaazftw.github.io/archives/</link>
+      <link>https://blog.itsshaz.com/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/archives/</guid>
+      <guid>https://blog.itsshaz.com/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://shaazftw.github.io/contact/</link>
+      <link>https://blog.itsshaz.com/contact/</link>
       <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/contact/</guid>
+      <guid>https://blog.itsshaz.com/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://shaazftw.github.io/about/</link>
+      <link>https://blog.itsshaz.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://shaazftw.github.io/about/</guid>
+      <guid>https://blog.itsshaz.com/about/</guid>
       <description>Hi &amp;amp; if you didn&amp;rsquo;t figure it out yet..I&amp;rsquo;m Shaz.</description>
     </item>
     
