@@ -1,4 +1,4 @@
-baseURL = "https://shaazftw.github.io/"
+baseURL = "https://shaazftw.github.io/docs"
 languageCode = "en"
 themesDir = "themes"
 publishDir = "docs"
