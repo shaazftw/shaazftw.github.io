@@ -1,6 +1,6 @@
-baseURL = "https://shaazftw.github.io/docs"
+baseURL = "https://shaazftw.github.io/"
 languageCode = "en"
-themesDir = "themes"
+themesDir = "themes/"
 publishDir = "docs"
 DefaultContentLanguage = "en"
 title = "It's Shaz"
@@ -82,7 +82,7 @@ url = "https://www.instagram.com/shaazftw"
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/docs/"
+  url = "/"
 
   [[menu.main]]
   name = "Posts"
