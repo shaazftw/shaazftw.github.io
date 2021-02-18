@@ -82,7 +82,7 @@ url = "https://www.instagram.com/shaazftw"
   name = "Home"
   identifier = "home"
   weight = 100
-  url = "/"
+  url = "/docs/"
 
   [[menu.main]]
   name = "Posts"
