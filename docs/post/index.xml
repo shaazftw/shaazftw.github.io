@@ -16,14 +16,5 @@
       <description>Hello and welcome. Please come back later when I&amp;rsquo;ve had some time to write something useful!</description>
     </item>
     
-    <item>
-      <title>First Post</title>
-      <link>https://blog.itsshaz.com/post/first-post/</link>
-      <pubDate>Wed, 17 Feb 2021 22:17:38 +0000</pubDate>
-      
-      <guid>https://blog.itsshaz.com/post/first-post/</guid>
-      <description>Testing. Update</description>
-    </item>
-    
   </channel>
 </rss>
